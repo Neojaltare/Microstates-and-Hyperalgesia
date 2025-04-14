@@ -1,6 +1,6 @@
 This repo contains the processing and analysis code associated with the following publication:
 
-Jaltare, K. P., & Torta, D. M. (2022). Experimentally induced central sensitization is accompanied by alterations in electroencephalographical microstate parameters. Pain, 10-1097.
+Jaltare, K. P., & Torta, D. M. (2025). Experimentally induced central sensitization is accompanied by alterations in electroencephalographical microstate parameters. Pain, 10-1097.
 
 The Microstate analysis itself has been performed using the Microstate EEGLAB Toolbox which was intriduced in this tutorial: 
 

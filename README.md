@@ -8,7 +8,7 @@ Poulsen, A. T., Pedroni, A., Langer, N., & Hansen, L. K. (2018). Microstate EEGl
 
 The code published here contains custom scripts that use functions written by the authors of the toolbox as well as otehr additional analysis scripts (R) and plotting functions. 
 
-While each code file contains helpful descriptions/comments of what is being done in the script, detailed inline connents have not been added. If you have any questions regarding the code, feel free to contact Ketan Jaltare (ketan.jaltare@kuleuven.be).
+While each code file contains helpful descriptions/comments of what is being done in the script, detailed inline comments have not been added. If you have any questions regarding the code, feel free to contact Ketan Jaltare (ketan.jaltare@kuleuven.be).
 
 
 
